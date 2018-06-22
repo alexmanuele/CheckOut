@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "785230567110",
+    "firebase_url": "https://check-out-b840e.firebaseio.com",
+    "project_id": "check-out-b840e",
+    "storage_bucket": "check-out-b840e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785230567110:android:fa43a027c0e0d7cc",
+        "android_client_info": {
+          "package_name": "io.google.checkout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785230567110-l34cpkpbob73u1e1irum6s5omqjnc1s7.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "785230567110-l34cpkpbob73u1e1irum6s5omqjnc1s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrmZtQao_Tlrl7jVaskW440C-uoD72cYY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
